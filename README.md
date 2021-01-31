@@ -60,7 +60,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ##Clone this repositroy
 1) Change database name in .env file
 2) run artisan command php artisan migrate
-3) change you credentional for socailite in .env file
+3) change your credentional for socailite in .env file
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
